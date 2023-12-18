@@ -1,11 +1,9 @@
-  "users": [
+  "posts": [
     {
       "id": 1,
-      "username": "siavash1991",
-      "password": "Xboard@1991",
-      "fname" : "Siavash",
-      "lname": "Rahimi Azad",
-      "email" : "siavash.rahimi1991@gmail.com"
-
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  },
