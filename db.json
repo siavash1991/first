@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "users":{
     {
       "id": 1,
-      "title": "hello"
+      "username": "siavash1991",
+      "password": "Xboard@1991",
+      "fname" : "Siavash",
+      "lname": "Rahimi Azad",
+      "email" : "siavash.rahimi1991@gmail.com"
+
     }
-  ],
-  "profile": {
-    "name": "typicode"
+  
   }
 }
