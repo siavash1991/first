@@ -1,5 +1,4 @@
-[
-  "users":{
+  "users": [
     {
       "id": 1,
       "username": "siavash1991",
@@ -9,6 +8,4 @@
       "email" : "siavash.rahimi1991@gmail.com"
 
     }
-  
-  }
-]
+  ]
