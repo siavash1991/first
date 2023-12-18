@@ -10,13 +10,7 @@
 
     }
   ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "login": {
+    "token": "402880824ff933a4014ff9345d7c0002"
   }
 }
